@@ -550,22 +550,8 @@ COVID-19-Visualization-Data-Analysis/
 ├── 📄 covid_data.csv
 │
 ├── 📘 README.md
-│
-└── 🖼️ screenshots/
-    ├── 01_worldwide_cases.png
-    ├── 02_worldwide_deaths.png
-    ├── 03_top10_cases.png
-    ├── 04_top10_deaths.png
-    ├── 05_country_cases.png
-    ├── 06_country_deaths.png
-    ├── 07_daily_cases.png
-    ├── 08_daily_deaths.png
-    ├── 09_cases_vs_deaths.png
-    ├── 10_heatmap.png
-    ├── 11_plotly.png
-    ├── 12_recovery.png
-    ├── 13_india_intervention.png
-    └── 14_intervention_vs_cases.png
+
+
 ```
 
 > 💡 The `screenshots/` folder is optional but strongly recommended for a premium GitHub presentation.
