@@ -753,16 +753,6 @@ Titanic-Survival-Analysis/
 ├── 📄 Titanic-Dataset.csv
 ├── 📘 README.md
 │
-├── 📂 outputs/
-│   ├── overall_survival.png
-│   ├── gender_survival.png
-│   ├── class_survival.png
-│   ├── age_analysis.png
-│   ├── family_analysis.png
-│   ├── fare_analysis.png
-│   ├── embarkation_analysis.png
-│   └── correlation_heatmap.png
-│
 └── 📂 docs/
     └── project-notes.md
 ```
@@ -1112,23 +1102,23 @@ Most importantly, the project demonstrates a professional analytical mindset:
 # 📜 PROJECT STATUS
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║              TITANIC SURVIVAL ANALYSIS              ║
-╠══════════════════════════════════════════════════════╣
-║ Data Loading                         ✅              ║
-║ Data Understanding                  ✅              ║
-║ Data Quality Audit                  ✅              ║
-║ Missing Value Handling               ✅              ║
-║ Feature Engineering                 ✅              ║
-║ Exploratory Data Analysis            ✅              ║
-║ Survival Analysis                   ✅              ║
-║ Family / Travel Analysis            ✅              ║
-║ Fare / Embarkation Analysis         ✅              ║
-║ Correlation Analysis                ✅              ║
-║ Automated Insight Engine            ✅              ║
-║ Conclusion                          ✅              ║
-║ Future Scope                        🚀              ║
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════|
+║              TITANIC SURVIVAL ANALYSIS        |  
+╠═══════════════════════════════════════════════╣
+║ Data Loading                        ✅        ║ 
+║ Data Understanding                  ✅        ║
+║ Data Quality Audit                  ✅        ║
+║ Missing Value Handling              ✅        ║
+║ Feature Engineering                 ✅        ║
+║ Exploratory Data Analysis           ✅        
+║ Survival Analysis                   ✅        ║
+║ Family / Travel Analysis            ✅        ║
+║ Fare / Embarkation Analysis         ✅        ║
+║ Correlation Analysis                ✅        ║
+║ Automated Insight Engine            ✅        ║
+║ Conclusion                          ✅        ║
+║ Future Scope                        🚀        ║
+╚═══════════════════════════════════════════════╝
 ```
 
 ---
