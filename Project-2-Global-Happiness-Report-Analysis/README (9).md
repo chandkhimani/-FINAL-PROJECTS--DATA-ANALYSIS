@@ -234,9 +234,6 @@ Global-Happiness-Report-Analysis/
 ├── Global_Happiness_Report_Analysis.ipynb
 ├── README.md
 ├── requirements.txt
-│
-└── images/
-    └── visualizations/
 ```
 
 ------------------------------------------------------------------------
