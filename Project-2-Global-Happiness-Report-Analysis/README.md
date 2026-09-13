@@ -607,22 +607,7 @@ Global-Happiness-Report-Analysis/
 ├── 📄 global_happiness_2015_2019_clean.csv
 │
 ├── 📘 README.md
-│
-└── 🖼️ screenshots/
-    ├── 01_global_happiness_trend.png
-    ├── 02_happiness_distribution.png
-    ├── 03_correlation_heatmap.png
-    ├── 04_gdp_vs_happiness.png
-    ├── 05_social_support_vs_happiness.png
-    ├── 06_life_expectancy_vs_happiness.png
-    ├── 07_freedom_vs_happiness.png
-    ├── 08_generosity_vs_happiness.png
-    ├── 09_corruption_vs_happiness.png
-    ├── 10_top10_countries.png
-    ├── 11_bottom10_countries.png
-    ├── 12_yearwise_correlation.png
-    ├── 13_standardized_trends.png
-    └── 14_2019_top10.png
+
 ```
 
 ---
