@@ -341,9 +341,7 @@ Project-3-Titanic-Survival-Analysis/
 ├── Titanic_Survival_Analysis.ipynb
 ├── README.md
 ├── requirements.txt
-│
-└── data/
-    └── Titanic-Dataset.csv
+|── Titanic-Dataset.csv
 ```
 
 ---
@@ -352,7 +350,7 @@ Project-3-Titanic-Survival-Analysis/
 
 **Author:** Chand Khimani  
 **Instructor:** Girish Gondaliya  
-**Course:** BCA Data Analysis
+**Course:** Data Analysis
 
 ---
 
